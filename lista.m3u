@@ -1,0 +1,50 @@
+#EXTM3U
+
+#EXTINF:-1 ,Globo SP
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/globosp_cfe21c68_dbc79c0e637b170b4c8be679c7202cb5150f9ed6/playlist.m3u8
+
+#EXTINF:-1 ,Sbt
+https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/sbtsp_2a5ac580_ebb4109134308c45990abdfdf107581d5f9f27ed/playlist.m3u8
+
+#EXTINF:-1 , Record
+https://edge-aws.aovivotv.xyz/hls/s:78.46.240.155/record_3554dce5_f0711ad353445b7ed3915e3f12b04b35037968f0/playlist.m3u8
+
+#EXTINF:-1 , redeTV
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/redetv_45cbe19f_f1c48842b6fc6d8b285fb705fd7fcc3652d656e9/playlist.m3u8
+#EXTINF:-1 ,Viva
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/viva_5d00f2c6_f2c3eb091a5f99e5e36c2cd36a6647360da355c7/playlist.m3u8
+#EXTINF:-1 ,Warner Channel
+https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/warnerchannel_0a57cb53_6966b2ca2a1b1203ca8cc184ef6e9f41fec6b541/playlist.m3u8
+#EXTINF:-1 ,NickJR
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/nickjr_54ceb912_c4b017be6c8eb5181f93e4863e9ee1533f062d07/playlist.m3u8
+#EXTINF:-1 ,Nickelodeon
+https://edge-aws.aovivotv.xyz/hls/s:78.46.240.155/nickelodeon_bc33ea4e_1946f0f0d00c6cf216a85c6f4a0615903a60708d/playlist.m3u8
+#EXTINF:-1 ,Comedy
+https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/comedycentral_17037754_f7a31c25af5246da8b58011fc5a3a5ce4ad3a26e/playlist.m3u8
+#EXTINF:-1 ,History
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/history_b7eb6c68_a19e183992ca0c3cdecc1248d3a646ff1ffa8ecb/playlist.m3u8
+#EXTINF:-1 ,ESPN
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/espn_887309d0_34949505e27aa1d18d550f4cee0da068423c8961/playlist.m3u8
+#EXTINF:-1 ,ESPN+
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/espnextra_93f271ad_b7830111368f87e1fe994d7a154241ed9cb7bbe6/playlist.m3u8
+#EXTINF:-1 ,FoxSports
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/foxsports_8a1beaee_d49e600b4d9efaca50ce27c5f3a496d3f929f478/playlist.m3u8
+#EXTINF:-1 ,SporTV
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/sportv_91dfde1d_07f6f380fcdf77f05541f513ba89d92506ec4a8d/playlist.m3u8
+#EXTINF:-1 ,SporTV 2
+https://edge-aws.aovivotv.xyz/hls/s:78.46.240.155/sportv2_22ab0e43_5226c901c42fa28eb6e2f6126a91b7824cae25bc/playlist.m3u8
+#EXTINF:-1 ,SporTV 3
+https://edge-aws.aovivotv.xyz/hls/s:78.46.240.155/sportv3_e1a864f0_bc81bc9def7dab4d242f338573f202e95af851b7/playlist.m3u8
+#EXTINF:-1 ,Combate
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/combate_ac3478d6_cb9fa118ef94193d8daa7d60c2328234498afc13/playlist.m3u8
+#EXTINF:-1 ,Premiere Clubes
+https://edge-aws.aovivotv.xyz/hls/s:78.46.240.155/premiereclubes_3f1522d0_699cde9e1f4375c77169b31d22671a20cef01aca/playlist.m3u8
+#EXTINF:-1 ,Premiere 2
+https://edge-aws.aovivotv.xyz/hls/s:88.198.239.170/premiere2_f5b68d74_2198c526900bf992c233e22e8b402aaf44e1f5da/playlist.m3u8
+#EXTINF:-1 ,
+
+#EXTINF:-1 ,
+
+#EXTINF:-1 ,
+
+#EXTINF:-1 ,
